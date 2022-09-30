@@ -12,3 +12,6 @@
 8. npm start
 9.open chrome -> localhost:3001
 ```
+
+# Contributors
+### Yash Verma
